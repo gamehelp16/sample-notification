@@ -13,6 +13,12 @@
         Aplikasi untuk mengatur jadwal PR / Ulangan
     </description>
     
+    <author href="http://gamehelp16.tk" email="richardsudaryono@gmail.com">
+      gamehelp16
+    </author>
+    
+    <content src="index.html" />
+    
     <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
     <gap:plugin name="org.apache.cordova.vibration" version="0.3.7" />
     <gap:plugin name="org.apache.cordova.splashscreen" version="0.2.7" />
